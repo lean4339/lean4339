@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hola me llamo Lean, tengo 32 años y estudio programacion hace un año y estos son mis pequeños logros:
+## Hola me llamo Lean, tengo 35 años y estudio programacion hace un año y estos son mis pequeños logros:
 
 ## E-comerce Vulkan Gaming
 Mi repositorio mas importante es el siguiente https://github.com/LucasCardozo98/grupo_5_VulkanGaming donde colaboré haciendo tareas de backend y frontend.
