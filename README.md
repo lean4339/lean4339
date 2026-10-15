@@ -5,7 +5,7 @@
 Node.js · React · Next.js · TypeScript · PostgreSQL  
 Buenos Aires, Argentina · English B2 (EF SET)
 
-[LinkedIn](https://www.linkedin.com/in/leandro-sebastian-ayala-/) · [English](#english) · [Español](#español)
+[LinkedIn](https://www.linkedin.com/in/leandro-sebastian-ayala-/) · [Blog — La Pared](https://la-pared.leandroayala.com/) · [X](https://x.com/4339_lean) · [English](#english) · [Español](#español)
 
 ## English
 
