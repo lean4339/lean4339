@@ -51,15 +51,15 @@ Una herramienta para explorar bases de código: símbolos, referencias, capas de
 **A storefront with real engineering problems.**  
 **Una tienda con desafíos de ingeniería concretos.**
 
-A personal serverless commerce lab with a React storefront, Lambda handlers, and PostgreSQL/DynamoDB persistence paths. Checkout includes stock protection, cart versioning, transactions, and idempotent retries.
+A personal serverless commerce lab with a React storefront, Lambda handlers, and PostgreSQL/DynamoDB persistence paths. Checkout includes stock protection, cart versioning, transactions, and idempotent retries. GitHub Actions runs linting, builds, SAM template validation, DynamoDB integration tests, and Playwright end-to-end tests.
 
-Laboratorio personal de ecommerce con frontend React, handlers Lambda y persistencia en PostgreSQL/DynamoDB. El checkout incluye control de stock, versiones de carrito, transacciones y reintentos idempotentes.
+Laboratorio personal de ecommerce con frontend React, handlers Lambda y persistencia en PostgreSQL/DynamoDB. El checkout incluye control de stock, versiones de carrito, transacciones y reintentos idempotentes. GitHub Actions ejecuta lint, compilación, validación de plantillas SAM, tests de integración con DynamoDB y pruebas de punta a punta con Playwright.
 
-`TypeScript` `React` `AWS Lambda` `DynamoDB`
+`TypeScript` `React` `AWS Lambda` `DynamoDB` `GitHub Actions` `Playwright`
 
 <sub>Personal learning lab / Laboratorio personal de aprendizaje</sub>
 
-[Explore the code / Ver código →](https://github.com/lean4339/ecommerce-serverless)
+[Explore the code / Ver código →](https://github.com/lean4339/ecommerce-serverless) · [CI & tests ↗](https://github.com/lean4339/ecommerce-serverless/actions/workflows/ci.yml)
 
 </td>
 </tr>
